@@ -40,8 +40,3 @@ The system is very minimal, but could be extended with:
 ## License
 
 This project is licensed under the MIT License - see the LICENSE file for details.
-
-## Thank You!
-
-Thank you for downloading this dialogue system! I hope it helps out on your game dev journey.
-If you have any questions or issues - create an issue in this repo or just comment on one of my videos.
